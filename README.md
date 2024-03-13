@@ -27,17 +27,17 @@ exemplary.
 Unfortunately, most of these resources are old. Others are raw
 reference materials like Intel's instruction guides.
 
-https://software.intel.com/en-us/articles/introduction-to-intel-advanced-vector-extensions/
-https://software.intel.com/en-us/articles/benefits-of-intel-avx-for-small-matrices/
-https://thinkingandcomputing.com/posts/using-avx-instructions-in-matrix-multiplication.html
-https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX
-https://software.intel.com/en-us/node/523876
-https://www.cs.fsu.edu/~engelen/courses/HPC-adv/MMXandSSEexamples.txt
-http://sci.tuomastonteri.fi/programming/sse
-http://stackoverflow.com/questions/13577226/intel-sse-and-avx-examples-and-tutorials
-http://supercomputingblog.com/optimization/getting-started-with-sse-programming/
-https://felix.abecassis.me/2011/09/cpp-getting-started-with-sse/
-http://www.walkingrandomly.com/?p=3378
+https://software.intel.com/en-us/articles/introduction-to-intel-advanced-vector-extensions/ \
+https://software.intel.com/en-us/articles/benefits-of-intel-avx-for-small-matrices/ \
+https://thinkingandcomputing.com/posts/using-avx-instructions-in-matrix-multiplication.html \
+https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX \
+https://software.intel.com/en-us/node/523876 \
+https://www.cs.fsu.edu/~engelen/courses/HPC-adv/MMXandSSEexamples.txt \
+http://sci.tuomastonteri.fi/programming/sse \
+http://stackoverflow.com/questions/13577226/intel-sse-and-avx-examples-and-tutorials \
+http://supercomputingblog.com/optimization/getting-started-with-sse-programming/ \
+https://felix.abecassis.me/2011/09/cpp-getting-started-with-sse/ \
+http://www.walkingrandomly.com/?p=3378 \
 https://software.intel.com/sites/landingpage/IntrinsicsGuide/
 
 ## Problem 0: get the code to compile and run
